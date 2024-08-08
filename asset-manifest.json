@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/BMW---website/static/css/main.86fde9ad.css",
+    "main.js": "/BMW---website/static/js/main.da8d684f.js",
+    "static/media/bmw5-E60.jpg": "/BMW---website/static/media/bmw5-E60.d67fb51c111c4bceb713.jpg",
+    "static/media/bmw5-E39.jpg": "/BMW---website/static/media/bmw5-E39.d50b21eb3c60eb16552f.jpg",
+    "static/media/bmw5-E34.jpg": "/BMW---website/static/media/bmw5-E34.a16328e2b04c62649376.jpg",
+    "static/media/bmw3-E30.jpg": "/BMW---website/static/media/bmw3-E30.b95e29a35e22de08bb74.jpg",
+    "static/media/bmw3-F30.jpg": "/BMW---website/static/media/bmw3-F30.fe6c536fb3e796189d8a.jpg",
+    "static/media/bmw2-G42.jpg": "/BMW---website/static/media/bmw2-G42.12360ae6c64f66c4dcf3.jpg",
+    "static/media/bmw5-E12.jpg": "/BMW---website/static/media/bmw5-E12.ae9032cb24634b0c43cb.jpg",
+    "static/media/bmw5-G30.jpg": "/BMW---website/static/media/bmw5-G30.98a2499571ea8b635497.jpg",
+    "static/media/bmw4-F32.jpg": "/BMW---website/static/media/bmw4-F32.02002d0f436e5000050b.jpg",
+    "static/media/bmw5-G60.jpg": "/BMW---website/static/media/bmw5-G60.d06c8baf7cab36dadd2a.jpg",
+    "static/media/bmw3-G20.jpg": "/BMW---website/static/media/bmw3-G20.984681ab39b319a100c7.jpg",
+    "static/media/bmw4-G22.jpg": "/BMW---website/static/media/bmw4-G22.7c64c931c418817897a7.jpg",
+    "static/media/bmw2-F22.jpg": "/BMW---website/static/media/bmw2-F22.d6c84cca269ad0baeffe.jpg",
+    "static/media/bmw3-E90.jpg": "/BMW---website/static/media/bmw3-E90.343f1b656a8246e7cec5.jpg",
+    "static/media/bmw5-E28.jpg": "/BMW---website/static/media/bmw5-E28.179d439a1894d6b93a46.jpg",
+    "static/media/bmw3-E36.jpg": "/BMW---website/static/media/bmw3-E36.9ff3c181b2798200378d.jpg",
+    "static/media/bmw3-E46.jpg": "/BMW---website/static/media/bmw3-E46.72b417e6ca03a9c0516b.jpg",
+    "static/media/bmw1-E87.jpg": "/BMW---website/static/media/bmw1-E87.b386c4222c13d6b2690b.jpg",
+    "static/media/bmw1-F20.jpg": "/BMW---website/static/media/bmw1-F20.5db72dada106e3709ab7.jpg",
+    "static/media/bmw5-F10.jpg": "/BMW---website/static/media/bmw5-F10.0b074aa4e14aafad1da9.jpg",
+    "static/media/bmw3-E21.jpg": "/BMW---website/static/media/bmw3-E21.a463fe23dbe9a036b36a.jpg",
+    "static/media/bmw1-F40.jpg": "/BMW---website/static/media/bmw1-F40.0ef8a348ae247463c745.jpg",
+    "index.html": "/BMW---website/index.html",
+    "main.86fde9ad.css.map": "/BMW---website/static/css/main.86fde9ad.css.map",
+    "main.da8d684f.js.map": "/BMW---website/static/js/main.da8d684f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fde9ad.css",
+    "static/js/main.da8d684f.js"
+  ]
+}
