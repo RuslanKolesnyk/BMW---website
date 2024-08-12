@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BMW---website/static/css/main.86fde9ad.css",
-    "main.js": "/BMW---website/static/js/main.698ab7ee.js",
+    "main.css": "/BMW---website/static/css/main.517f8ae9.css",
+    "main.js": "/BMW---website/static/js/main.2e94f9b1.js",
     "static/media/bmw5-E60.jpg": "/BMW---website/static/media/bmw5-E60.d67fb51c111c4bceb713.jpg",
     "static/media/bmw5-E39.jpg": "/BMW---website/static/media/bmw5-E39.d50b21eb3c60eb16552f.jpg",
     "static/media/bmw5-E34.jpg": "/BMW---website/static/media/bmw5-E34.a16328e2b04c62649376.jpg",
@@ -25,11 +25,11 @@
     "static/media/bmw3-E21.jpg": "/BMW---website/static/media/bmw3-E21.a463fe23dbe9a036b36a.jpg",
     "static/media/bmw1-F40.jpg": "/BMW---website/static/media/bmw1-F40.0ef8a348ae247463c745.jpg",
     "index.html": "/BMW---website/index.html",
-    "main.86fde9ad.css.map": "/BMW---website/static/css/main.86fde9ad.css.map",
-    "main.698ab7ee.js.map": "/BMW---website/static/js/main.698ab7ee.js.map"
+    "main.517f8ae9.css.map": "/BMW---website/static/css/main.517f8ae9.css.map",
+    "main.2e94f9b1.js.map": "/BMW---website/static/js/main.2e94f9b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.86fde9ad.css",
-    "static/js/main.698ab7ee.js"
+    "static/css/main.517f8ae9.css",
+    "static/js/main.2e94f9b1.js"
   ]
 }
