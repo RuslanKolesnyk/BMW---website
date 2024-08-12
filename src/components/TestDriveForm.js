@@ -75,9 +75,11 @@ const TestDriveForm = () => {
 			{message && (
 				<div id='message' className='message'>
 					<p>{message}</p>
-					{selectedCarImage && (
-						<img src={selectedCarImage} alt={selectedCar} className='selected-car__image' />
-					)}
+				</div>
+			)}
+			{selectedCarImage && (
+				<div className='image__container'>
+					<img src={selectedCarImage} alt={selectedCar} className='selected-car__image' />
 				</div>
 			)}
 		</div>

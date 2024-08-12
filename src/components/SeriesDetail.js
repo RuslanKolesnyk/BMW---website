@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import { carData } from '../Data'
 
@@ -15,6 +15,15 @@ const SeriesDetail = ({ onCarClick }) => {
 
 	const seriesName = seriesMap[seriesId]
 	const series = carData.find(item => item.series === seriesName)
+
+	useEffect(() => {
+		const carItems = document.querySelectorAll('.car__item');
+		// Adding empty event listeners to activate CSS hover on mobile devices
+		carItems.forEach(item => {
+			item.addEventListener('touchstart', () => { });
+			item.addEventListener('touchend', () => { });
+		});
+	}, []);
 
 	return (
 		<div className='series__detail'>

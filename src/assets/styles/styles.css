@@ -38,6 +38,12 @@ body {
 html {
 	font-size: 16px;
 }
+input,
+textarea {
+   font-size: 16px;
+}
+/*=================*/
+
 body {
 	line-height: 1.5;
 	font-family: 'Roboto', sans-serif;
@@ -119,7 +125,7 @@ h1 {
 	transition: transform 0.3s, box-shadow 0.3s;
 	overflow: hidden;
 }
-.car__item:hover {
+.car__item:hover{
 	transform: translateY(-5px);
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
 }
@@ -506,6 +512,12 @@ button[type='submit']:hover {
 .calendar__day:hover {
 	background-color: #444;
 }
+.calendar__day:focus,
+.calendar__day.selected {
+    outline: none; /* Убираем стандартное выделение фокуса */
+    background-color: #4CAF50; /* Цвет фона для выбранного дня */
+    color: white; /* Цвет текста для выбранного дня */
+}
 .calendar__today {
 	border: 2px solid #bb86fc;
 }
@@ -597,6 +609,9 @@ button[type='submit']:hover {
 		display: flex;
 		justify-content: center;
 		align-items: center;		
+	}
+	.nav__icon{
+		margin: 0px 5px 0px 0px;
 	}
 	.dropdown__arrow {
 		transform: translate(10px);

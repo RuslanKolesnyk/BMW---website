@@ -31,12 +31,12 @@ const Header = () => {
 				<ul className='nav__list'>
 					<li className='nav__item'>
 						<Link to='/' onClick={toggleMenu}>
-							<FaHome /> Home
+							<FaHome className='nav__icon' /> Home
 						</Link>
 					</li>
 					<li className={`nav__item ${isDropdownOpen ? 'open' : ''}`}>
 						<span onClick={toggleDropdown}>
-							<span className='dropdown__arrow'> <FaCar /> Models &#9662;</span>
+							<span className='dropdown__arrow'> <FaCar className='nav__icon' /> Models &#9662;</span>
 						</span>
 						<ul className='dropdown__menu'>
 							<li><Link to='/models/1-Series' onClick={toggleMenu}>1 Series</Link></li>
@@ -48,12 +48,12 @@ const Header = () => {
 					</li>
 					<li className='nav__item'>
 						<Link to='/contact' onClick={toggleMenu}>
-							<FaPhone /> Contact
+							<FaPhone className='nav__icon' /> Contact
 						</Link>
 					</li>
 					<li className='nav__item'>
 						<Link to='/test-drive' onClick={toggleMenu}>
-							<FaCalendarAlt /> Test Drive
+							<FaCalendarAlt className='nav__icon' /> Test Drive
 						</Link>
 					</li>
 				</ul>
