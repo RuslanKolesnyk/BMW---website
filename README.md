@@ -1,33 +1,15 @@
-# BMW Website
+# BMW Website | BMW Webová stránka
 
-This project is a React-based website for showcasing BMW car models.
+## Description | Popis
 
-## Available Scripts
+This project is a React-based website for showcasing BMW car models. It demonstrates modern React features and styling.
 
-In the project directory, you can run:
+Tento projekt je webová stránka založená na Reactu pro prezentaci modelů automobilů BMW. Ukazuje moderní funkce Reactu a stylování.
 
-### `npm start`
+## Deployment | Nasazení
 
-Runs the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The project is available at the following link:
 
-### `npm test`
+Projekt je k dispozici na následujícím odkazu:
 
-Launches the test runner in the interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-### `npm run deploy`
-
-Deploys the app to GitHub Pages. The app will be available at `https://ruslankolesnyk.github.io/BMW---website`.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-## Deployment
-
-This project is deployed using GitHub Pages and is available at `https://ruslankolesnyk.github.io/BMW---website`.
+[View BMW Website | Zobrazit BMW Webovou stránku](https://ruslankolesnyk.github.io/BMW---website)
